@@ -16,3 +16,4 @@ Guitar player with a thing for vintage aesthetics, rock music, and underground c
 - Building scalable full-stack applications  
 - Clean architecture and performance  
 - Music, vintage design, and underground culture
+   
